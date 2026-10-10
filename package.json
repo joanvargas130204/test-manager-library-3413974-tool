@@ -1,0 +1,9 @@
+﻿{
+  "name": "test-manager-library-tool",
+  "version": "1.0.0",
+  "description": "Herramienta de siembra automatica de datos para Manager Library",
+  "type": "module",
+  "scripts": {
+    "start": "node seed.js"
+  }
+}
